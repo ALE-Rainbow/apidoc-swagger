@@ -30,15 +30,15 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "apidoc-core": "0.8.3",
-    "fs-extra": "^8.1.0",
+    "apidoc-core": "0.12.0",
+    "fs-extra": "^9.1.0",
     "html2markdown": "git+https://github.com/ALE-Rainbow/html2markdown.git#support-code-blocks-with-backticks",
     "jsonlint": "^1.6.3",
-    "lodash": "^4.17.15",
-    "markdown-it": "^10.0.0",
+    "lodash": "^4.17.20",
+    "markdown-it": "^12.0.4",
     "nomnom": "^1.8.1",
     "path-to-regexp": "^3.1.0",
-    "swagger-parser": "^8.0.3",
+    "swagger-parser": "^10.0.2",
     "winston": "^0.9.0"
   },
   "devDependencies": {},
